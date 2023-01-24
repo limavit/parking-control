@@ -12,7 +12,7 @@
 	<artifactId>parking-control</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>parking-control</name>
-	<description>Prooject parking-control SpringBoot 3.0.1</description>
+	<description>Prooject parking-control for condominium. Spring Boot 3.0.1 Postgresql</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
